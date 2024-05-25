@@ -1,0 +1,27 @@
+payload:
+# FB
+  - DOMAIN-KEYWORD,fbcdn
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,fb
+  - IP-CIDR,157.240.3.0/24
+  - IP-CIDR,31.13.95.0/24
+  - IP-CIDR,31.13.71.0/24
+  - IP-CIDR,157.240.208.0/24
+  - IP-CIDR,157.240.217.0/24
+# TELEGRAM
+  - DOMAIN-SUFFIX,telegram.org
+  - DOMAIN-SUFFIX,telegram.org
+  - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,tg.dev
+  - DOMAIN-SUFFIX,tdekstop.com
+  - IP-CIDR,91.108.56.0/24
+  - IP-CIDR,149.154.0.0/16
+# WHATSAPP
+  - DOMAIN-KEYWORD,wa
+  - DOMAIN-KEYWORD,whatsapp
+  - IP-CIDR,157.240.0.0/16
+  - IP-CIDR,31.71.0.0/16
+  - IP-CIDR,31.13.0.0/16
+# INSTAGRAM
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,cdninstagram.com
